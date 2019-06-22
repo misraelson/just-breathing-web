@@ -1,0 +1,15 @@
+{
+  "short_name": "Just Breathing App",
+  "name": "Just Breathing Web",
+  "icons": [
+    {
+      "src": "logo1.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#febfe8",
+  "background_color": "#febfe8"
+}
